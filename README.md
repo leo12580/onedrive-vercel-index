@@ -22,7 +22,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 🍌 More importantly, we are pretty (●'◡'●)
 
-## Quick start1
+## Quick start2
 
 🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
 
